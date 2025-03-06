@@ -1,0 +1,28 @@
+const Sdata = [
+    {
+    cateImg: "../../../public/imgs/category/cat-1.png",
+    cateName: "Apple",
+    },
+    {
+    cateImg: "../../../public/imgs/category/cat-2.png",
+    cateName: "Samasung",
+    },
+    {
+    cateImg: "../../../public/imgs/category/cat-3.png",
+    cateName: "Oppo",
+    },
+    {
+    cateImg: "../../../public/imgs/category/cat-1.png",
+    cateName: "Vivo",
+    },
+    {
+    cateImg: "../../../public/imgs/category/cat-2.png",
+    cateName: "Redimi",
+    },
+    {
+    cateImg: "../../../public/imgs/category/cat-3.png",
+    cateName: "Sony",
+    },
+]
+
+export default Sdata
