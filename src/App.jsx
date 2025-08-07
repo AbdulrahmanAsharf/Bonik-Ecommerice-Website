@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Header from "./commentes/header/Header";
+import Header from "./commentes/Header/Header";
 import './App.css';
 import { useState } from "react";
 import Home from "./commentes/Home/Home";
