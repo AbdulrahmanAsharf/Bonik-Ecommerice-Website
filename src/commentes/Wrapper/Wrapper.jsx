@@ -1,4 +1,4 @@
-import React from "react"
+
 import "./Wrapper.css"
 import { FaTruckFast } from "react-icons/fa6"
 import { FaCcMastercard, FaHeadset } from "react-icons/fa"

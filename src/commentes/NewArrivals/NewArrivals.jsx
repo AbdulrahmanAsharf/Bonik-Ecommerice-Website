@@ -1,4 +1,4 @@
-import React from "react"
+
 import "./NewArrivals.css"
 import { FaCaretRight } from "react-icons/fa"
 import Ndatas from "./Ndate"

@@ -1,4 +1,5 @@
-import React, { useState } from 'react'
+/* eslint-disable react/prop-types */
+import  { useState } from 'react'
 import { FaAngleRight, FaPlus, FaStar, FaStarHalfAlt } from 'react-icons/fa'
 import './Shops.css'
 import Sdata from './Sdata'
